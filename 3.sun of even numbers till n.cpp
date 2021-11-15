@@ -13,7 +13,7 @@ int main(){
         }
         i++;
     }
-        cout<<"the total sun is"<<sum;
+        cout<<"the total sum is"<<sum;
 
 }
 
