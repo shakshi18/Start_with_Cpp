@@ -44,7 +44,7 @@ int main() {
     if (n == 0 || n == 1) {
         isPrime = false;
     }
-    else if (n==2){
+    else if (n==2){             // this is for 2 
         isPrime =true;
     }
     else {
